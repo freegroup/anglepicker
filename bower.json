@@ -1,0 +1,13 @@
+{
+  "name": "anglepicker",
+  "version": "1.0.0",
+  "main": [
+    "ui.anglepicker.js"
+  ],
+  "ignore": [
+
+  ],
+  "dependencies": {
+
+  }
+}
